@@ -62,3 +62,9 @@ The PCB includes an **ICSP header (J1)**, so the PIC16F877A can be flashed direc
 
 <img width="3560" height="5636" alt="Mindmap" src="https://github.com/user-attachments/assets/f8a237ac-8446-4d8e-abdb-da1aa47589ea" />
 
+
+# Final PCB Design 
+
+<img width="1277" height="701" alt="Top" src="https://github.com/user-attachments/assets/de26223b-0b54-4f56-b498-8984d0e0cb79" />
+
+
