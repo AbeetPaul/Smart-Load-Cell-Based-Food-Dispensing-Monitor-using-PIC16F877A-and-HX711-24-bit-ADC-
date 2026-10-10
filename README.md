@@ -57,3 +57,8 @@ The PCB includes an **ICSP header (J1)**, so the PIC16F877A can be flashed direc
 ## Tech Stack
 
 `PIC16F877A` · `HX711` · `KiCad` · `PIC Assembly` · `Proteus / SimulIDE`
+
+#MindMap
+
+<img width="3560" height="5636" alt="Mindmap" src="https://github.com/user-attachments/assets/f8a237ac-8446-4d8e-abdb-da1aa47589ea" />
+
